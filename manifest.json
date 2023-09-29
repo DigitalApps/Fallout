@@ -1,7 +1,8 @@
 {
 	"name": "Fallout",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"minAppVersion": "1.0.0",
 	"author": "DigitalApps",
-	"authorUrl": "https://www.buymeacoffee.com/wpplugins"
+	"authorUrl": "https://digitalapps.com",
+	"fundingUrl": "https://www.buymeacoffee.com/wpplugins"
 }
